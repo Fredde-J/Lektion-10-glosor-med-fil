@@ -1,0 +1,4 @@
+mat;food
+bil;car
+stol;chair
+bord;table
