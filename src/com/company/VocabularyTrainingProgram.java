@@ -85,7 +85,7 @@ public class VocabularyTrainingProgram {
                 break;
             }
         }
-        System.out.println("test");
+      
     }
 }
 
